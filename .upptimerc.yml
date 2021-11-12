@@ -18,7 +18,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /upptime
   logoUrl: https://secure.gravatar.com/avatar/04c78479df8bc6886453459f106d0a92?s=26&d=monsterid&r=g&s=54
   name: Upptime
   introTitle: "Uptime monitor and status page."
