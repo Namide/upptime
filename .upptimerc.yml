@@ -11,8 +11,6 @@ sites:
     url: https://sport.namide.com/
   - name: Sport API
     url: https://api.sport.namide.com/api/v1
-  - name: Motard en Voyage
-    url: https://www.motards-en-voyage.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -20,7 +18,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://secure.gravatar.com/avatar/04c78479df8bc6886453459f106d0a92?s=26&d=monsterid&r=g&s=54
-  name: Upptime
+  name: Monitoring
   introTitle: "Uptime monitor and status page."
   introMessage: "Namide's websites 🦄"  # This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
