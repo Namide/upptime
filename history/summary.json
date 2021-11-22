@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/damien-doussaud.com",
     "slug": "damien",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 586,
-    "timeDay": 691,
-    "timeWeek": 611,
-    "timeMonth": 586,
-    "timeYear": 586,
-    "dailyMinutesDown": {
-      "2021-11-21": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 581,
+    "timeDay": 661,
+    "timeWeek": 623,
+    "timeMonth": 581,
+    "timeYear": 581,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Namide",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/namide.com",
     "slug": "namide",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 517,
-    "timeDay": 605,
-    "timeWeek": 485,
-    "timeMonth": 517,
-    "timeYear": 517,
-    "dailyMinutesDown": {
-      "2021-11-21": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 512,
+    "timeDay": 614,
+    "timeWeek": 486,
+    "timeMonth": 512,
+    "timeYear": 512,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sport frontend",
@@ -45,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/sport.namide.com",
     "slug": "sport-frontend",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 508,
-    "timeDay": 550,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 502,
+    "timeDay": 538,
     "timeWeek": 476,
-    "timeMonth": 508,
-    "timeYear": 508,
-    "dailyMinutesDown": {
-      "2021-11-21": 13
-    }
+    "timeMonth": 502,
+    "timeYear": 502,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sport API",
@@ -65,18 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/api.sport.namide.com",
     "slug": "sport-api",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 499,
-    "timeDay": 590,
-    "timeWeek": 480,
-    "timeMonth": 499,
-    "timeYear": 499,
-    "dailyMinutesDown": {
-      "2021-11-21": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 491,
+    "timeDay": 567,
+    "timeWeek": 476,
+    "timeMonth": 491,
+    "timeYear": 491,
+    "dailyMinutesDown": {}
   }
 ]
