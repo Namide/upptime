@@ -4,7 +4,7 @@
     "url": "https://damien-doussaud.com/",
     "icon": "https://favicons.githubusercontent.com/damien-doussaud.com",
     "slug": "damien",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 637,
     "timeMonth": 582,
     "timeYear": 582,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-24": 0
+    }
   },
   {
     "name": "Namide",
