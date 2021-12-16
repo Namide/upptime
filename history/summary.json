@@ -5,18 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/damien-doussaud.com",
     "slug": "damien",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 577,
     "timeDay": 568,
     "timeWeek": 519,
     "timeMonth": 590,
     "timeYear": 577,
     "dailyMinutesDown": {
-      "2021-12-15": 9,
       "2021-11-24": 17
     }
   },
