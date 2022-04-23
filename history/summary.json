@@ -73,9 +73,9 @@
     "slug": "sport-api",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 659,
     "timeDay": 1005,
@@ -83,7 +83,6 @@
     "timeMonth": 1185,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2022-04-22": 7,
       "2022-03-16": 48,
       "2022-02-03": 38
     }
