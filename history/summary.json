@@ -77,9 +77,9 @@
     "url": "https://api.sport.namide.com/api/v1",
     "icon": "https://favicons.githubusercontent.com/api.sport.namide.com",
     "slug": "sport-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -89,6 +89,7 @@
     "timeMonth": 1949,
     "timeYear": 1069,
     "dailyMinutesDown": {
+      "2022-08-17": 0,
       "2022-06-10": 24,
       "2022-03-16": 48,
       "2022-02-03": 38
