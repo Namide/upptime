@@ -78,9 +78,9 @@
     "url": "https://api.sport.namide.com/api/v1",
     "icon": "https://icons.duckduckgo.com/ip3/api.sport.namide.com.ico",
     "slug": "sport-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -90,6 +90,7 @@
     "timeMonth": 884,
     "timeYear": 1268,
     "dailyMinutesDown": {
+      "2022-11-17": 0,
       "2022-06-10": 24,
       "2022-03-16": 48,
       "2022-02-03": 38
