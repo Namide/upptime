@@ -14,7 +14,7 @@
     "timeDay": 712,
     "timeWeek": 667,
     "timeMonth": 930,
-    "timeYear": 692,
+    "timeYear": 693,
     "dailyMinutesDown": {
       "2022-07-05": 16,
       "2022-04-26": 48,
@@ -60,7 +60,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 571,
-    "timeDay": 591,
+    "timeDay": 529,
     "timeWeek": 613,
     "timeMonth": 583,
     "timeYear": 575,
@@ -77,9 +77,9 @@
     "url": "https://api.sport.namide.com/api/v1",
     "icon": "https://icons.duckduckgo.com/ip3/api.sport.namide.com.ico",
     "slug": "sport-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -89,6 +89,7 @@
     "timeMonth": 759,
     "timeYear": 1277,
     "dailyMinutesDown": {
+      "2022-11-24": 0,
       "2022-06-10": 24,
       "2022-03-16": 48,
       "2022-02-03": 38
