@@ -1,7 +1,7 @@
 url: https://api.sport.namide.com/api/v1
-status: down
-code: 502
-responseTime: 422
-lastUpdated: 2023-06-02T18:56:48.157Z
+status: up
+code: 200
+responseTime: 19279
+lastUpdated: 2023-06-02T19:05:27.712Z
 startTime: Fri Nov 12 2021 11:39:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
