@@ -4,9 +4,9 @@
     "url": "https://damien-doussaud.com/",
     "icon": "https://icons.duckduckgo.com/ip3/damien-doussaud.com.ico",
     "slug": "damien",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -16,6 +16,7 @@
     "timeMonth": 638,
     "timeYear": 726,
     "dailyMinutesDown": {
+      "2023-09-07": 0,
       "2023-03-26": 44,
       "2023-02-16": 50,
       "2023-02-09": 68,
@@ -37,7 +38,7 @@
     "uptimeYear": "99.84%",
     "time": 630,
     "timeDay": 821,
-    "timeWeek": 574,
+    "timeWeek": 589,
     "timeMonth": 623,
     "timeYear": 639,
     "dailyMinutesDown": {
@@ -86,7 +87,7 @@
     "timeDay": 2029,
     "timeWeek": 1225,
     "timeMonth": 1219,
-    "timeYear": 1242,
+    "timeYear": 1243,
     "dailyMinutesDown": {
       "2023-03-26": 44,
       "2023-02-09": 15,
