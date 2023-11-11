@@ -55,9 +55,9 @@
     "url": "https://sport.namide.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sport.namide.com.ico",
     "slug": "sport-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -67,6 +67,7 @@
     "timeMonth": 599,
     "timeYear": 609,
     "dailyMinutesDown": {
+      "2023-11-11": 0,
       "2023-03-26": 44,
       "2023-02-09": 53,
       "2022-12-25": 16,
@@ -87,7 +88,7 @@
     "time": 1371,
     "timeDay": 673,
     "timeWeek": 633,
-    "timeMonth": 889,
+    "timeMonth": 839,
     "timeYear": 1170,
     "dailyMinutesDown": {
       "2023-09-23": 20,
