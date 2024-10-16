@@ -4,7 +4,7 @@
     "url": "https://damien-doussaud.com/",
     "icon": "https://icons.duckduckgo.com/ip3/damien-doussaud.com.ico",
     "slug": "damien",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.53%",
@@ -16,6 +16,7 @@
     "timeMonth": 716,
     "timeYear": 808,
     "dailyMinutesDown": {
+      "2024-10-16": 0,
       "2024-10-11": 20,
       "2024-10-10": 27,
       "2024-10-03": 21,
