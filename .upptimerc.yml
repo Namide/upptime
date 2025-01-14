@@ -7,10 +7,10 @@ sites:
     url: https://damien-doussaud.com/
   - name: Namide
     url: https://namide.com/en
-  - name: Sport frontend
-    url: https://sport.namide.com/
-  - name: Sport API
-    url: https://api.sport.namide.com/api/v1
+  - name: Diji
+    url: https://diji.namide.com/
+  - name: Diji API
+    url: https://api.diji.namide.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
