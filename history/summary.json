@@ -56,9 +56,9 @@
     "url": "https://diji.namide.com/",
     "icon": "https://icons.duckduckgo.com/ip3/diji.namide.com.ico",
     "slug": "diji",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -67,7 +67,9 @@
     "timeWeek": 670,
     "timeMonth": 681,
     "timeYear": 681,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-13": 0
+    }
   },
   {
     "name": "Diji API",
