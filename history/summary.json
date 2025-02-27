@@ -34,10 +34,10 @@
     "url": "https://namide.com/en",
     "icon": "https://icons.duckduckgo.com/ip3/namide.com.ico",
     "slug": "namide",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 618,
@@ -46,6 +46,7 @@
     "timeMonth": 657,
     "timeYear": 609,
     "dailyMinutesDown": {
+      "2025-02-27": 1,
       "2024-10-24": 23,
       "2024-09-07": 36,
       "2024-06-28": 24
@@ -56,10 +57,10 @@
     "url": "https://diji.namide.com/",
     "icon": "https://icons.duckduckgo.com/ip3/diji.namide.com.ico",
     "slug": "diji",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 664,
@@ -67,16 +68,18 @@
     "timeWeek": 628,
     "timeMonth": 643,
     "timeYear": 664,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-27": 1
+    }
   },
   {
     "name": "Diji API",
     "url": "https://api.diji.namide.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api.diji.namide.com.ico",
     "slug": "diji-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -85,6 +88,8 @@
     "timeWeek": 6116,
     "timeMonth": 3943,
     "timeYear": 2979,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-27": 0
+    }
   }
 ]
