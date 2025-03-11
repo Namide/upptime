@@ -34,9 +34,9 @@
     "url": "https://namide.com/en",
     "icon": "https://icons.duckduckgo.com/ip3/namide.com.ico",
     "slug": "namide",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -46,6 +46,7 @@
     "timeMonth": 625,
     "timeYear": 610,
     "dailyMinutesDown": {
+      "2025-03-11": 0,
       "2024-10-24": 23,
       "2024-09-07": 36,
       "2024-06-28": 24
