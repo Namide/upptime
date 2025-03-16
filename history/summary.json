@@ -36,12 +36,12 @@
     "slug": "namide",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "97.38%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 615,
-    "timeDay": 583,
+    "timeDay": 581,
     "timeWeek": 651,
     "timeMonth": 622,
     "timeYear": 610,
@@ -78,9 +78,9 @@
     "url": "https://api.diji.namide.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api.diji.namide.com.ico",
     "slug": "diji-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.95%",
@@ -90,6 +90,7 @@
     "timeMonth": 4444,
     "timeYear": 3074,
     "dailyMinutesDown": {
+      "2025-03-16": 0,
       "2025-02-28": 45
     }
   }
