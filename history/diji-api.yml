@@ -1,7 +1,7 @@
 url: https://api.diji.namide.com/
-status: down
-code: 500
-responseTime: 27754
-lastUpdated: 2025-04-17T01:06:07.085Z
+status: up
+code: 200
+responseTime: 4687
+lastUpdated: 2025-04-17T01:44:42.148Z
 startTime: 2025-01-14T08:32:10.061Z
 generator: Upptime <https://github.com/upptime/upptime>
