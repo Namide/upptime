@@ -117,19 +117,19 @@
     "url": "https://inspire.namide.com/",
     "icon": "https://icons.duckduckgo.com/ip3/inspire.namide.com.ico",
     "slug": "inspire",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 836,
-    "timeDay": 787,
-    "timeWeek": 890,
-    "timeMonth": 836,
-    "timeYear": 836,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 844,
+    "timeDay": 804,
+    "timeWeek": 896,
+    "timeMonth": 844,
+    "timeYear": 844,
     "dailyMinutesDown": {
-      "2025-06-13": 0
+      "2025-06-13": 7
     }
   }
 ]
