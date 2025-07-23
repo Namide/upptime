@@ -1,7 +1,7 @@
 url: https://inspire.namide.com/
-status: up
-code: 200
-responseTime: 984
-lastUpdated: 2025-07-23T17:13:40.172Z
+status: down
+code: 500
+responseTime: 545
+lastUpdated: 2025-07-23T22:48:37.485Z
 startTime: 2025-06-06T09:37:54.054Z
 generator: Upptime <https://github.com/upptime/upptime>
