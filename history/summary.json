@@ -4,15 +4,15 @@
     "url": "https://damien-doussaud.com/",
     "icon": "https://icons.duckduckgo.com/ip3/damien-doussaud.com.ico",
     "slug": "damien",
-    "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "90.19%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "96.16%",
     "uptimeWeek": "95.60%",
     "uptimeMonth": "96.38%",
-    "uptimeYear": "99.50%",
-    "time": 723,
-    "timeDay": 635,
-    "timeWeek": 638,
+    "uptimeYear": "99.51%",
+    "time": 724,
+    "timeDay": 630,
+    "timeWeek": 642,
     "timeMonth": 659,
     "timeYear": 708,
     "dailyMinutesDown": {
@@ -72,8 +72,7 @@
       "2025-10-23": 17,
       "2025-10-22": 4,
       "2025-09-18": 25,
-      "2025-08-18": 168,
-      "2025-07-07": 19
+      "2025-08-18": 168
     }
   },
   {
@@ -81,16 +80,16 @@
     "url": "https://namide.com/en",
     "icon": "https://icons.duckduckgo.com/ip3/namide.com.ico",
     "slug": "namide",
-    "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "90.18%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "96.16%",
     "uptimeWeek": "95.60%",
     "uptimeMonth": "96.38%",
-    "uptimeYear": "99.50%",
+    "uptimeYear": "99.51%",
     "time": 657,
-    "timeDay": 665,
-    "timeWeek": 619,
-    "timeMonth": 644,
+    "timeDay": 775,
+    "timeWeek": 631,
+    "timeMonth": 647,
     "timeYear": 660,
     "dailyMinutesDown": {
       "2026-02-20": 23,
@@ -149,8 +148,7 @@
       "2025-10-23": 17,
       "2025-10-22": 4,
       "2025-09-18": 25,
-      "2025-08-18": 168,
-      "2025-07-07": 19
+      "2025-08-18": 168
     }
   },
   {
@@ -158,15 +156,15 @@
     "url": "https://diji.namide.com/",
     "icon": "https://icons.duckduckgo.com/ip3/diji.namide.com.ico",
     "slug": "diji",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "90.18%",
-    "uptimeWeek": "95.60%",
+    "uptimeDay": "96.16%",
+    "uptimeWeek": "95.59%",
     "uptimeMonth": "96.38%",
-    "uptimeYear": "99.50%",
+    "uptimeYear": "99.51%",
     "time": 637,
-    "timeDay": 629,
-    "timeWeek": 612,
+    "timeDay": 646,
+    "timeWeek": 613,
     "timeMonth": 631,
     "timeYear": 636,
     "dailyMinutesDown": {
@@ -225,8 +223,7 @@
       "2025-11-20": 15,
       "2025-11-10": 40,
       "2025-09-18": 25,
-      "2025-08-18": 168,
-      "2025-07-07": 18
+      "2025-08-18": 168
     }
   },
   {
@@ -270,16 +267,16 @@
     "url": "https://inspire.namide.com/",
     "icon": "https://icons.duckduckgo.com/ip3/inspire.namide.com.ico",
     "slug": "inspire",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "90.17%",
+    "uptimeDay": "96.15%",
     "uptimeWeek": "95.59%",
     "uptimeMonth": "96.34%",
     "uptimeYear": "99.35%",
     "time": 821,
-    "timeDay": 695,
+    "timeDay": 731,
     "timeWeek": 755,
-    "timeMonth": 808,
+    "timeMonth": 807,
     "timeYear": 821,
     "dailyMinutesDown": {
       "2026-02-20": 23,
@@ -336,9 +333,7 @@
       "2025-11-23": 42,
       "2025-11-22": 1,
       "2025-11-20": 15,
-      "2025-11-10": 40,
-      "2025-10-23": 17,
-      "2025-10-22": 3
+      "2025-11-10": 40
     }
   }
 ]
