@@ -6,17 +6,17 @@
     "slug": "damien",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "93.47%",
-    "uptimeWeek": "96.35%",
-    "uptimeMonth": "96.20%",
+    "uptimeDay": "92.31%",
+    "uptimeWeek": "96.18%",
+    "uptimeMonth": "96.26%",
     "uptimeYear": "99.52%",
     "time": 713,
-    "timeDay": 628,
-    "timeWeek": 606,
-    "timeMonth": 637,
+    "timeDay": 702,
+    "timeWeek": 626,
+    "timeMonth": 639,
     "timeYear": 683,
     "dailyMinutesDown": {
-      "2026-03-10": 94,
+      "2026-03-10": 111,
       "2026-03-08": 18,
       "2026-03-07": 65,
       "2026-03-06": 56,
@@ -52,7 +52,7 @@
       "2026-02-01": 16,
       "2026-01-31": 15,
       "2026-01-30": 37,
-      "2026-01-29": 98
+      "2026-01-29": 77
     }
   },
   {
@@ -62,17 +62,17 @@
     "slug": "namide",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "93.47%",
-    "uptimeWeek": "96.35%",
-    "uptimeMonth": "96.16%",
+    "uptimeDay": "92.31%",
+    "uptimeWeek": "96.18%",
+    "uptimeMonth": "96.23%",
     "uptimeYear": "99.52%",
-    "time": 657,
-    "timeDay": 614,
-    "timeWeek": 622,
-    "timeMonth": 633,
+    "time": 658,
+    "timeDay": 716,
+    "timeWeek": 647,
+    "timeMonth": 637,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2026-03-10": 94,
+      "2026-03-10": 111,
       "2026-03-08": 18,
       "2026-03-07": 65,
       "2026-03-06": 56,
@@ -108,7 +108,7 @@
       "2026-02-01": 16,
       "2026-01-31": 15,
       "2026-01-30": 37,
-      "2026-01-29": 77
+      "2026-01-29": 57
     }
   },
   {
@@ -118,17 +118,17 @@
     "slug": "diji",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "93.47%",
-    "uptimeWeek": "96.35%",
-    "uptimeMonth": "96.16%",
+    "uptimeDay": "92.31%",
+    "uptimeWeek": "96.18%",
+    "uptimeMonth": "96.23%",
     "uptimeYear": "99.52%",
     "time": 633,
-    "timeDay": 658,
-    "timeWeek": 600,
-    "timeMonth": 608,
+    "timeDay": 640,
+    "timeWeek": 603,
+    "timeMonth": 606,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2026-03-10": 94,
+      "2026-03-10": 111,
       "2026-03-08": 18,
       "2026-03-07": 65,
       "2026-03-06": 56,
@@ -164,7 +164,7 @@
       "2026-02-01": 16,
       "2026-01-31": 15,
       "2026-01-30": 37,
-      "2026-01-29": 77
+      "2026-01-29": 57
     }
   },
   {
@@ -182,7 +182,7 @@
     "timeDay": 509,
     "timeWeek": 578,
     "timeMonth": 609,
-    "timeYear": 1783,
+    "timeYear": 1723,
     "dailyMinutesDown": {
       "2026-01-26": 20,
       "2026-01-06": 123,
@@ -209,17 +209,17 @@
     "slug": "inspire",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "93.47%",
-    "uptimeWeek": "96.35%",
-    "uptimeMonth": "96.16%",
+    "uptimeDay": "92.30%",
+    "uptimeWeek": "96.18%",
+    "uptimeMonth": "96.22%",
     "uptimeYear": "99.37%",
     "time": 816,
-    "timeDay": 789,
-    "timeWeek": 795,
-    "timeMonth": 772,
+    "timeDay": 803,
+    "timeWeek": 804,
+    "timeMonth": 773,
     "timeYear": 816,
     "dailyMinutesDown": {
-      "2026-03-10": 94,
+      "2026-03-10": 111,
       "2026-03-08": 18,
       "2026-03-07": 65,
       "2026-03-06": 56,
@@ -255,7 +255,7 @@
       "2026-02-01": 16,
       "2026-01-31": 15,
       "2026-01-30": 37,
-      "2026-01-29": 77
+      "2026-01-29": 57
     }
   }
 ]
