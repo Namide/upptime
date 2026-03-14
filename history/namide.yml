@@ -1,7 +1,7 @@
 url: https://namide.com/en
-status: up
-code: 200
-responseTime: 502
-lastUpdated: 2026-03-14T07:09:19.950Z
+status: down
+code: 503
+responseTime: 470
+lastUpdated: 2026-03-14T11:55:32.752Z
 startTime: 2021-11-12T11:38:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
