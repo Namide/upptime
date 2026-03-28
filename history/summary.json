@@ -4,10 +4,10 @@
     "url": "https://damien-doussaud.com/",
     "icon": "https://icons.duckduckgo.com/ip3/damien-doussaud.com.ico",
     "slug": "damien",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "98.96%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "98.95%",
     "uptimeMonth": "97.39%",
     "uptimeYear": "99.52%",
     "time": 707,
@@ -56,8 +56,7 @@
       "2026-02-10": 62,
       "2026-02-09": 133,
       "2026-02-08": 64,
-      "2026-02-07": 70,
-      "2026-02-06": 19
+      "2026-02-07": 70
     }
   },
   {
@@ -65,10 +64,10 @@
     "url": "https://namide.com/en",
     "icon": "https://icons.duckduckgo.com/ip3/namide.com.ico",
     "slug": "namide",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "98.96%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "98.95%",
     "uptimeMonth": "97.39%",
     "uptimeYear": "99.52%",
     "time": 652,
@@ -117,7 +116,7 @@
       "2026-02-10": 62,
       "2026-02-09": 133,
       "2026-02-08": 64,
-      "2026-02-07": 70
+      "2026-02-07": 38
     }
   },
   {
@@ -125,10 +124,10 @@
     "url": "https://diji.namide.com/",
     "icon": "https://icons.duckduckgo.com/ip3/diji.namide.com.ico",
     "slug": "diji",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "98.96%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "98.95%",
     "uptimeMonth": "97.39%",
     "uptimeYear": "99.52%",
     "time": 630,
@@ -177,7 +176,7 @@
       "2026-02-10": 62,
       "2026-02-09": 133,
       "2026-02-08": 64,
-      "2026-02-07": 70
+      "2026-02-07": 38
     }
   },
   {
@@ -220,12 +219,12 @@
     "url": "https://inspire.namide.com/",
     "icon": "https://icons.duckduckgo.com/ip3/inspire.namide.com.ico",
     "slug": "inspire",
-    "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "97.39%",
-    "uptimeYear": "99.40%",
+    "status": "down",
+    "uptime": "99.41%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "97.38%",
+    "uptimeYear": "99.41%",
     "time": 816,
     "timeDay": 799,
     "timeWeek": 783,
@@ -272,7 +271,7 @@
       "2026-02-10": 62,
       "2026-02-09": 133,
       "2026-02-08": 65,
-      "2026-02-07": 70
+      "2026-02-07": 38
     }
   }
 ]
